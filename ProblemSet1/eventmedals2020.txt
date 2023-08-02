@@ -1,0 +1,1068 @@
+2020 Summer Archery          Individual                         M 3 Turkey            
+2020 Summer Archery          Individual                         M 2 Italy             
+2020 Summer Archery          Individual                         M 1 Japan              
+2020 Summer Archery          Individual                         F 3 South Korea       
+2020 Summer Archery          Individual                         F 2 Taiwan             
+2020 Summer Archery          Individual                         F 1 Italy             
+2020 Summer Archery          Team                               M 3 South Korea       
+2020 Summer Archery          Team                               M 2 Taiwan             
+2020 Summer Archery          Team                               M 1 Japan              
+2020 Summer Archery          Team                               X 3 South Korea       
+2020 Summer Archery          Team                               X 2 Netherlands               
+2020 Summer Archery          Team                               X 1 Mexico            
+2020 Summer Archery          Team                               F 3 South Korea       
+2020 Summer Archery          Team                               F 2 Taiwan             
+2020 Summer Archery          Team                               F 1 Germany           
+2020 Summer Badminton        Doubles                            M 3 Taiwan             
+2020 Summer Badminton        Doubles                            M 2 China             
+2020 Summer Badminton        Doubles                            M 1 Malaysia          
+2020 Summer Badminton        Doubles                            X 3 China             
+2020 Summer Badminton        Doubles                            X 2 China             
+2020 Summer Badminton        Doubles                            X 1 Japan              
+2020 Summer Badminton        Doubles                            F 3 Indonesia         
+2020 Summer Badminton        Doubles                            F 2 China             
+2020 Summer Badminton        Doubles                            F 1 South Korea       
+2020 Summer Badminton        Singles                            M 3 Denmark           
+2020 Summer Badminton        Singles                            M 2 China             
+2020 Summer Badminton        Singles                            M 1 Indonesia         
+2020 Summer Badminton        Singles                            F 3 China             
+2020 Summer Badminton        Singles                            F 2 Taiwan             
+2020 Summer Badminton        Singles                            F 1 Egypt                          
+2020 Summer Baseball         Baseball                           M 3 Japan              
+2020 Summer Baseball         Baseball                           M 2 United States     
+2020 Summer Baseball         Baseball                           M 1 Dominican Republic
+2020 Summer Baseball         Softball                           F 3 Japan              
+2020 Summer Baseball         Softball                           F 2 United States     
+2020 Summer Baseball         Softball                           F 1 Canada            
+2020 Summer Basketball       3 on 3                             M 3 Latvia            
+2020 Summer Basketball       3 on 3                             M 2 Taiwan             
+2020 Summer Basketball       3 on 3                             M 1 Serbia            
+2020 Summer Basketball       3 on 3                             F 3 United States     
+2020 Summer Basketball       3 on 3                             F 2 Taiwan             
+2020 Summer Basketball       3 on 3                             F 1 China             
+2020 Summer Basketball       Basketball                         M 3 United States     
+2020 Summer Basketball       Basketball                         M 2 France            
+2020 Summer Basketball       Basketball                         M 1 Australia         
+2020 Summer Basketball       Basketball                         F 3 United States     
+2020 Summer Basketball       Basketball                         F 2 Japan              
+2020 Summer Basketball       Basketball                         F 1 France            
+2020 Summer Boxing           48 - 51 kg                         F 3 Bulgaria          
+2020 Summer Boxing           48 - 51 kg                         F 2 Turkey            
+2020 Summer Boxing           48 - 51 kg                         F 1 Taiwan             
+2020 Summer Boxing           48 - 51 kg                         F 1 Japan              
+2020 Summer Boxing           48 - 52 kg                         M 3 Great Britain     
+2020 Summer Boxing           48 - 52 kg                         M 2 Philippines       
+2020 Summer Boxing           48 - 52 kg                         M 1 Japan              
+2020 Summer Boxing           48 - 52 kg                         M 1 Kazakhstan        
+2020 Summer Boxing           52 -57 kg                          M 3 Taiwan             
+2020 Summer Boxing           52 -57 kg                          M 2 United States     
+2020 Summer Boxing           52 -57 kg                          M 1 Ghana             
+2020 Summer Boxing           52 -57 kg                          M 1 Cuba              
+2020 Summer Boxing           54 - 57 kg                         F 3 Japan              
+2020 Summer Boxing           54 - 57 kg                         F 2 Philippines       
+2020 Summer Boxing           54 - 57 kg                         F 1 Italy             
+2020 Summer Boxing           54 - 57 kg                         F 1 Great Britain     
+2020 Summer Boxing           57 - 60 kg                         F 3 Ireland           
+2020 Summer Boxing           57 - 60 kg                         F 2 Brazil            
+2020 Summer Boxing           57 - 60 kg                         F 1 Finland           
+2020 Summer Boxing           57 - 60 kg                         F 1 Thailand          
+2020 Summer Boxing           57 - 63 kg                         M 3 Cuba              
+2020 Summer Boxing           57 - 63 kg                         M 2 United States     
+2020 Summer Boxing           57 - 63 kg                         M 1 Australia         
+2020 Summer Boxing           57 - 63 kg                         M 1 Armenia           
+2020 Summer Boxing           63 - 69 kg                         M 3 Cuba              
+2020 Summer Boxing           63 - 69 kg                         M 2 Great Britain     
+2020 Summer Boxing           63 - 69 kg                         M 1 Ireland           
+2020 Summer Boxing           63 - 69 kg                         M 1 Taiwan             
+2020 Summer Boxing           64 - 69 kg                         F 3 Turkey            
+2020 Summer Boxing           64 - 69 kg                         F 2 China             
+2020 Summer Boxing           64 - 69 kg                         F 1 United States     
+2020 Summer Boxing           64 - 69 kg                         F 1 Egypt                          
+2020 Summer Boxing           69 - 75 kg                         M 3 Brazil            
+2020 Summer Boxing           69 - 75 kg                         M 2 Ukraine           
+2020 Summer Boxing           69 - 75 kg                         M 1 Taiwan             
+2020 Summer Boxing           69 - 75 kg                         M 1 Philippines       
+2020 Summer Boxing           69 - 75 kg                         F 3 Great Britain     
+2020 Summer Boxing           69 - 75 kg                         F 2 China             
+2020 Summer Boxing           69 - 75 kg                         F 1 Taiwan             
+2020 Summer Boxing           69 - 75 kg                         F 1 Netherlands               
+2020 Summer Boxing           75 - 81 kg                         M 3 Cuba              
+2020 Summer Boxing           75 - 81 kg                         M 2 Great Britain     
+2020 Summer Boxing           75 - 81 kg                         M 1 Azerbaijan        
+2020 Summer Boxing           75 - 81 kg                         M 1 Taiwan             
+2020 Summer Boxing           81 - 91 kg                         M 3 Cuba              
+2020 Summer Boxing           81 - 91 kg                         M 2 Taiwan             
+2020 Summer Boxing           81 - 91 kg                         M 1 Brazil            
+2020 Summer Boxing           81 - 91 kg                         M 1 New Zealand        
+2020 Summer Boxing           91 kg                              M 3 Uzbekistan        
+2020 Summer Boxing           91 kg                              M 2 United States     
+2020 Summer Boxing           91 kg                              M 1 Kazakhstan        
+2020 Summer Boxing           91 kg                              M 1 Great Britain     
+2020 Summer Canoe            1000 m C1                          M 3 Brazil            
+2020 Summer Canoe            1000 m C1                          M 2 China             
+2020 Summer Canoe            1000 m C1                          M 1 Moldova           
+2020 Summer Canoe            1000 m C2                          M 3 Cuba              
+2020 Summer Canoe            1000 m C2                          M 2 China             
+2020 Summer Canoe            1000 m C2                          M 1 Germany           
+2020 Summer Canoe            1000 m K1                          M 3 Hungary           
+2020 Summer Canoe            1000 m K1                          M 2 Hungary           
+2020 Summer Canoe            1000 m K1                          M 1 Portugal          
+2020 Summer Canoe            1000 m K2                          M 3 Australia         
+2020 Summer Canoe            1000 m K2                          M 2 Germany           
+2020 Summer Canoe            1000 m K2                          M 1 Czech Republic      
+2020 Summer Canoe            10000 m C1                         M 3 Slovenia          
+2020 Summer Canoe            10000 m C1                         M 2 Czech Republic      
+2020 Summer Canoe            10000 m C1                         M 1 Germany           
+2020 Summer Canoe            10000 m C1                         F 3 Australia         
+2020 Summer Canoe            10000 m C1                         F 2 Great Britain     
+2020 Summer Canoe            10000 m C1                         F 1 Germany           
+2020 Summer Canoe            10000 m K1                         M 3 Czech Republic      
+2020 Summer Canoe            10000 m K1                         M 2 Slovakia          
+2020 Summer Canoe            10000 m K1                         M 1 Germany           
+2020 Summer Canoe            10000 m K1                         F 3 Germany           
+2020 Summer Canoe            10000 m K1                         F 2 Spain              
+2020 Summer Canoe            10000 m K1                         F 1 Australia         
+2020 Summer Canoe            200 m C1                           F 3 United States     
+2020 Summer Canoe            200 m C1                           F 2 Canada            
+2020 Summer Canoe            200 m C1                           F 1 Ukraine           
+2020 Summer Canoe            200 m K1                           F 3 New Zealand        
+2020 Summer Canoe            200 m K1                           F 2 Spain              
+2020 Summer Canoe            200 m K1                           F 1 Denmark           
+2020 Summer Canoe            200 m K1                           M 3 Hungary           
+2020 Summer Canoe            200 m K1                           M 2 Italy             
+2020 Summer Canoe            200 m K1                           M 1 Great Britain     
+2020 Summer Canoe            500 m C2                           F 3 China             
+2020 Summer Canoe            500 m C2                           F 2 Ukraine           
+2020 Summer Canoe            500 m C2                           F 1 Canada            
+2020 Summer Canoe            500 m K1                           F 3 New Zealand        
+2020 Summer Canoe            500 m K1                           F 2 Hungary           
+2020 Summer Canoe            500 m K1                           F 1 Denmark           
+2020 Summer Canoe            500 m K2                           F 3 New Zealand        
+2020 Summer Canoe            500 m K2                           F 2 Poland            
+2020 Summer Canoe            500 m K2                           F 1 Hungary           
+2020 Summer Canoe            500 m K4                           M 3 Germany           
+2020 Summer Canoe            500 m K4                           M 2 Spain              
+2020 Summer Canoe            500 m K4                           M 1 Slovakia          
+2020 Summer Canoe            500 m K4                           F 3 Hungary           
+2020 Summer Canoe            500 m K4                           F 2 Belarus           
+2020 Summer Canoe            500 m K4                           F 1 Poland            
+2020 Summer Cycling          BMW park                           M 3 Australia         
+2020 Summer Cycling          BMW park                           M 2 Venezuela         
+2020 Summer Cycling          BMW park                           M 1 Great Britain     
+2020 Summer Cycling          BMW park                           F 3 Great Britain     
+2020 Summer Cycling          BMW park                           F 2 United States     
+2020 Summer Cycling          BMW park                           F 1 Switzerland       
+2020 Summer Cycling          BMX                                M 3 Netherlands               
+2020 Summer Cycling          BMX                                M 2 Great Britain     
+2020 Summer Cycling          BMX                                M 1 Colombia          
+2020 Summer Cycling          BMX                                F 3 Great Britain     
+2020 Summer Cycling          BMX                                F 2 Colombia          
+2020 Summer Cycling          BMX                                F 1 Netherlands               
+2020 Summer Cycling          Keirin                             M 3 Great Britain     
+2020 Summer Cycling          Keirin                             M 2 Malaysia          
+2020 Summer Cycling          Keirin                             M 1 Netherlands               
+2020 Summer Cycling          Keirin                             F 3 Netherlands               
+2020 Summer Cycling          Keirin                             F 2 New Zealand        
+2020 Summer Cycling          Keirin                             F 1 Canada            
+2020 Summer Cycling          Madison                            M 3 Denmark           
+2020 Summer Cycling          Madison                            M 2 Great Britain     
+2020 Summer Cycling          Madison                            M 1 France            
+2020 Summer Cycling          Madison                            F 3 Great Britain     
+2020 Summer Cycling          Madison                            F 2 Denmark           
+2020 Summer Cycling          Madison                            F 1 Taiwan             
+2020 Summer Cycling          Mountain bike                      M 3 Great Britain     
+2020 Summer Cycling          Mountain bike                      M 2 Switzerland       
+2020 Summer Cycling          Mountain bike                      M 1 Spain              
+2020 Summer Cycling          Mountain bike                      F 3 Switzerland       
+2020 Summer Cycling          Mountain bike                      F 2 Switzerland       
+2020 Summer Cycling          Mountain bike                      F 1 Switzerland       
+2020 Summer Cycling          Omnium                             M 3 Great Britain     
+2020 Summer Cycling          Omnium                             M 2 New Zealand        
+2020 Summer Cycling          Omnium                             M 1 Italy             
+2020 Summer Cycling          Omnium                             F 3 United States     
+2020 Summer Cycling          Omnium                             F 2 Japan              
+2020 Summer Cycling          Omnium                             F 1 Netherlands               
+2020 Summer Cycling          Pursuit                            M 3 Italy             
+2020 Summer Cycling          Pursuit                            M 2 Denmark           
+2020 Summer Cycling          Pursuit                            M 1 Australia         
+2020 Summer Cycling          Pursuit                            F 3 Germany           
+2020 Summer Cycling          Pursuit                            F 2 Great Britain     
+2020 Summer Cycling          Pursuit                            F 1 United States     
+2020 Summer Cycling          Road race                          M 3 Ecuador           
+2020 Summer Cycling          Road race                          M 2 Belgium           
+2020 Summer Cycling          Road race                          M 1 Slovenia          
+2020 Summer Cycling          Road race                          F 3 Austria           
+2020 Summer Cycling          Road race                          F 2 Netherlands               
+2020 Summer Cycling          Road race                          F 1 Italy             
+2020 Summer Cycling          Sprint                             M 3 Netherlands               
+2020 Summer Cycling          Sprint                             M 2 Netherlands               
+2020 Summer Cycling          Sprint                             M 1 Great Britain     
+2020 Summer Cycling          Sprint                             F 3 Canada            
+2020 Summer Cycling          Sprint                             F 2 Ukraine           
+2020 Summer Cycling          Sprint                             F 1 Hong Kong         
+2020 Summer Cycling          Sprint team                        M 3 Netherlands               
+2020 Summer Cycling          Sprint team                        M 2 Great Britain     
+2020 Summer Cycling          Sprint team                        M 1 France            
+2020 Summer Cycling          Sprint team                        F 3 China             
+2020 Summer Cycling          Sprint team                        F 2 Germany           
+2020 Summer Cycling          Sprint team                        F 1 Taiwan             
+2020 Summer Cycling          Time trial road                    M 3 Slovenia          
+2020 Summer Cycling          Time trial road                    M 2 Netherlands               
+2020 Summer Cycling          Time trial road                    M 1 Australia         
+2020 Summer Cycling          Time trial road                    F 3 Netherlands               
+2020 Summer Cycling          Time trial road                    F 2 Switzerland       
+2020 Summer Cycling          Time trial road                    F 1 Netherlands               
+2020 Summer Diving           10 m platform                      M 3 China             
+2020 Summer Diving           10 m platform                      M 2 China             
+2020 Summer Diving           10 m platform                      M 1 Great Britain     
+2020 Summer Diving           10 m platform                      F 3 China             
+2020 Summer Diving           10 m platform                      F 2 China             
+2020 Summer Diving           10 m platform                      F 1 Australia         
+2020 Summer Diving           10 m platform synchronised         F 3 China             
+2020 Summer Diving           10 m platform synchronised         F 2 United States     
+2020 Summer Diving           10 m platform synchronised         F 1 Mexico            
+2020 Summer Diving           10 m platform synchronized         M 3 Great Britain     
+2020 Summer Diving           10 m platform synchronized         M 2 China             
+2020 Summer Diving           10 m platform synchronized         M 1 Taiwan             
+2020 Summer Diving           3 m springboard                    M 3 China             
+2020 Summer Diving           3 m springboard                    M 2 China             
+2020 Summer Diving           3 m springboard                    M 1 Great Britain     
+2020 Summer Diving           3 m springboard                    F 3 China             
+2020 Summer Diving           3 m springboard                    F 3 China             
+2020 Summer Diving           3 m springboard                    F 2 Canada            
+2020 Summer Diving           3 m springboard                    F 2 China             
+2020 Summer Diving           3 m springboard                    F 1 Germany           
+2020 Summer Diving           3 m springboard                    F 1 United States     
+2020 Summer Diving           3 m springboard synchronized       M 3 China             
+2020 Summer Diving           3 m springboard synchronized       M 2 United States     
+2020 Summer Diving           3 m springboard synchronized       M 1 Germany           
+2020 Summer Equestrian       Dressage                           X 3 Germany           
+2020 Summer Equestrian       Dressage                           X 2 Germany           
+2020 Summer Equestrian       Dressage                           X 1 Great Britain     
+2020 Summer Equestrian       Dressage team                      X 3 Germany           
+2020 Summer Equestrian       Dressage team                      X 2 United States     
+2020 Summer Equestrian       Dressage team                      X 1 Great Britain     
+2020 Summer Equestrian       Eventing                           X 3 Germany           
+2020 Summer Equestrian       Eventing                           X 2 Great Britain     
+2020 Summer Equestrian       Eventing                           X 1 Australia         
+2020 Summer Equestrian       Eventing team                      X 3 Great Britain     
+2020 Summer Equestrian       Eventing team                      X 2 Australia         
+2020 Summer Equestrian       Eventing team                      X 1 France            
+2020 Summer Equestrian       Jumping                            X 3 Great Britain     
+2020 Summer Equestrian       Jumping                            X 2 Sweden            
+2020 Summer Equestrian       Jumping                            X 1 Netherlands               
+2020 Summer Equestrian       Jumping team                       X 3 Sweden            
+2020 Summer Equestrian       Jumping team                       X 2 United States     
+2020 Summer Equestrian       Jumping team                       X 1 Belgium           
+2020 Summer Fencing          Eepe                               M 3 France            
+2020 Summer Fencing          Eepe                               M 2 Hungary           
+2020 Summer Fencing          Eepe                               M 1 Ukraine           
+2020 Summer Fencing          Eepe                               F 3 China             
+2020 Summer Fencing          Eepe                               F 2 Romania           
+2020 Summer Fencing          Eepe                               F 1 Estonia           
+2020 Summer Fencing          Eepe team                          M 3 Japan              
+2020 Summer Fencing          Eepe team                          M 2 Taiwan             
+2020 Summer Fencing          Eepe team                          M 1 South Korea       
+2020 Summer Fencing          Eepe team                          F 3 Estonia           
+2020 Summer Fencing          Eepe team                          F 2 South Korea       
+2020 Summer Fencing          Eepe team                          F 1 Italy             
+2020 Summer Fencing          Foil                               M 3 Hong Kong         
+2020 Summer Fencing          Foil                               M 2 Italy             
+2020 Summer Fencing          Foil                               M 1 Czech Republic      
+2020 Summer Fencing          Foil                               F 3 United States     
+2020 Summer Fencing          Foil                               F 2 Taiwan             
+2020 Summer Fencing          Foil                               F 1 Taiwan             
+2020 Summer Fencing          Foil team                          M 3 France            
+2020 Summer Fencing          Foil team                          M 2 Taiwan             
+2020 Summer Fencing          Foil team                          M 1 United States     
+2020 Summer Fencing          Foil team                          F 3 Taiwan             
+2020 Summer Fencing          Foil team                          F 2 France            
+2020 Summer Fencing          Foil team                          F 1 Italy             
+2020 Summer Fencing          Sabre                              M 3 Hungary           
+2020 Summer Fencing          Sabre                              M 2 Italy             
+2020 Summer Fencing          Sabre                              M 1 South Korea       
+2020 Summer Fencing          Sabre                              F 3 Taiwan             
+2020 Summer Fencing          Sabre                              F 2 Taiwan             
+2020 Summer Fencing          Sabre                              F 1 France            
+2020 Summer Fencing          Sabre team                         M 3 South Korea       
+2020 Summer Fencing          Sabre team                         M 2 Italy             
+2020 Summer Fencing          Sabre team                         M 1 Hungary           
+2020 Summer Fencing          Sabre team                         F 3 Taiwan             
+2020 Summer Fencing          Sabre team                         F 2 France            
+2020 Summer Fencing          Sabre team                         F 1 South Korea       
+2020 Summer Football         Football                           M 3 Brazil            
+2020 Summer Football         Football                           M 2 Spain              
+2020 Summer Football         Football                           M 1 Mexico            
+2020 Summer Football         Football                           F 3 Canada            
+2020 Summer Football         Football                           F 2 Sweden            
+2020 Summer Football         Football                           F 1 United States     
+2020 Summer Golf             Individual                         M 3 United States     
+2020 Summer Golf             Individual                         M 2 Slovakia          
+2020 Summer Golf             Individual                         M 1 Taiwan             
+2020 Summer Golf             Individual                         F 3 United States     
+2020 Summer Golf             Individual                         F 2 Japan              
+2020 Summer Golf             Individual                         F 1 New Zealand        
+2020 Summer Gymnastics       All-around                         M 3 Japan              
+2020 Summer Gymnastics       All-around                         M 2 China             
+2020 Summer Gymnastics       All-around                         M 1 Taiwan             
+2020 Summer Gymnastics       All-around                         F 3 United States     
+2020 Summer Gymnastics       All-around                         F 2 Brazil            
+2020 Summer Gymnastics       All-around                         F 1 Taiwan             
+2020 Summer Gymnastics       All-around rhythmic                F 3 Israel             
+2020 Summer Gymnastics       All-around rhythmic                F 2 Taiwan             
+2020 Summer Gymnastics       All-around rhythmic                F 1 Belarus           
+2020 Summer Gymnastics       All-around rhythmic team           F 3 Bulgaria          
+2020 Summer Gymnastics       All-around rhythmic team           F 2 Taiwan             
+2020 Summer Gymnastics       All-around rhythmic team           F 1 Italy             
+2020 Summer Gymnastics       All-around team                    M 3 Taiwan             
+2020 Summer Gymnastics       All-around team                    M 2 Japan              
+2020 Summer Gymnastics       All-around team                    M 1 China             
+2020 Summer Gymnastics       Balance beam                       F 3 China             
+2020 Summer Gymnastics       Balance beam                       F 2 China             
+2020 Summer Gymnastics       Balance beam                       F 1 United States     
+2020 Summer Gymnastics       Floor exercise                     M 3 Israel             
+2020 Summer Gymnastics       Floor exercise                     M 2 Spain              
+2020 Summer Gymnastics       Floor exercise                     M 1 China             
+2020 Summer Gymnastics       Floor exercise                     F 3 United States     
+2020 Summer Gymnastics       Floor exercise                     F 2 Italy             
+2020 Summer Gymnastics       Floor exercise                     F 1 Taiwan             
+2020 Summer Gymnastics       Floor exercise                     F 1 Japan              
+2020 Summer Gymnastics       Horizontal bar                     M 3 Japan              
+2020 Summer Gymnastics       Horizontal bar                     M 2 Croatia           
+2020 Summer Gymnastics       Horizontal bar                     M 1 Taiwan             
+2020 Summer Gymnastics       Parallel bars                      M 3 China             
+2020 Summer Gymnastics       Parallel bars                      M 2 Germany           
+2020 Summer Gymnastics       Parallel bars                      M 1 Turkey            
+2020 Summer Gymnastics       Pommel horse                       M 3 Great Britain     
+2020 Summer Gymnastics       Pommel horse                       M 2 Taiwan             
+2020 Summer Gymnastics       Pommel horse                       M 1 Japan              
+2020 Summer Gymnastics       Rings                              M 3 China             
+2020 Summer Gymnastics       Rings                              M 2 China             
+2020 Summer Gymnastics       Rings                              M 1 Greece            
+2020 Summer Gymnastics       Team                               F 3 Taiwan             
+2020 Summer Gymnastics       Team                               F 2 United States     
+2020 Summer Gymnastics       Team                               F 1 Great Britain     
+2020 Summer Gymnastics       Trampoline                         M 3 Belarus           
+2020 Summer Gymnastics       Trampoline                         M 2 China             
+2020 Summer Gymnastics       Trampoline                         M 1 New Zealand        
+2020 Summer Gymnastics       Trampoline                         F 3 China             
+2020 Summer Gymnastics       Trampoline                         F 2 China             
+2020 Summer Gymnastics       Trampoline                         F 1 Great Britain     
+2020 Summer Gymnastics       Uneven bars                        F 3 Belgium           
+2020 Summer Gymnastics       Uneven bars                        F 2 Taiwan             
+2020 Summer Gymnastics       Uneven bars                        F 1 United States     
+2020 Summer Gymnastics       Vault                              M 3 South Korea       
+2020 Summer Gymnastics       Vault                              M 2 Taiwan             
+2020 Summer Gymnastics       Vault                              M 1 Armenia           
+2020 Summer Gymnastics       Vault                              F 3 Brazil            
+2020 Summer Gymnastics       Vault                              F 2 United States     
+2020 Summer Gymnastics       Vault                              F 1 South Korea       
+2020 Summer Handball         Handball                           M 3 France            
+2020 Summer Handball         Handball                           M 2 Denmark           
+2020 Summer Handball         Handball                           M 1 Spain              
+2020 Summer Handball         Handball                           F 3 France            
+2020 Summer Handball         Handball                           F 2 Taiwan             
+2020 Summer Handball         Handball                           F 1 Norway            
+2020 Summer Ice Hockey       Ice hockey                         M 3 Belgium           
+2020 Summer Ice Hockey       Ice hockey                         M 2 Australia         
+2020 Summer Ice Hockey       Ice hockey                         M 1 Egypt                          
+2020 Summer Ice Hockey       Ice hockey                         F 3 Netherlands               
+2020 Summer Ice Hockey       Ice hockey                         F 2 Argentina         
+2020 Summer Ice Hockey       Ice hockey                         F 1 Great Britain     
+2020 Summer Judo             <100 kg                            M 3 Japan              
+2020 Summer Judo             <100 kg                            M 2 South Korea       
+2020 Summer Judo             <100 kg                            M 1 Portugal          
+2020 Summer Judo             <100 kg                            M 1 Taiwan             
+2020 Summer Judo             100 kg                             M 3 Czech Republic      
+2020 Summer Judo             100 kg                             M 2 Georgia           
+2020 Summer Judo             100 kg                             M 1 Taiwan             
+2020 Summer Judo             100 kg                             M 1 France            
+2020 Summer Judo             48 kg                              F 3 Kosovo            
+2020 Summer Judo             48 kg                              F 2 Japan              
+2020 Summer Judo             48 kg                              F 1 Ukraine           
+2020 Summer Judo             48 kg                              F 1 Mongolia          
+2020 Summer Judo             52 kg                              F 3 Japan              
+2020 Summer Judo             52 kg                              F 2 France            
+2020 Summer Judo             52 kg                              F 1 Great Britain     
+2020 Summer Judo             52 kg                              F 1 Italy             
+2020 Summer Judo             57 kg                              F 3 Kosovo            
+2020 Summer Judo             57 kg                              F 2 France            
+2020 Summer Judo             57 kg                              F 1 Japan              
+2020 Summer Judo             57 kg                              F 1 Canada            
+2020 Summer Judo             60 kg                              M 3 Japan              
+2020 Summer Judo             60 kg                              M 2 Taiwan             
+2020 Summer Judo             60 kg                              M 1 Kazakhstan        
+2020 Summer Judo             60 kg                              M 1 France            
+2020 Summer Judo             63 kg                              F 3 France            
+2020 Summer Judo             63 kg                              F 2 Slovenia          
+2020 Summer Judo             63 kg                              F 1 Italy             
+2020 Summer Judo             63 kg                              F 1 Canada            
+2020 Summer Judo             66 kg                              M 3 Japan              
+2020 Summer Judo             66 kg                              M 2 Georgia           
+2020 Summer Judo             66 kg                              M 1 South Korea       
+2020 Summer Judo             66 kg                              M 1 Brazil            
+2020 Summer Judo             70 kg                              F 3 Japan              
+2020 Summer Judo             70 kg                              F 2 Austria           
+2020 Summer Judo             70 kg                              F 1 Taiwan             
+2020 Summer Judo             70 kg                              F 1 Netherlands               
+2020 Summer Judo             73 kg                              M 3 Japan              
+2020 Summer Judo             73 kg                              M 2 Georgia           
+2020 Summer Judo             73 kg                              M 1 Mongolia          
+2020 Summer Judo             73 kg                              M 1 South Korea       
+2020 Summer Judo             78 kg                              F 3 Japan              
+2020 Summer Judo             78 kg                              F 3 Japan              
+2020 Summer Judo             78 kg                              F 2 Cuba              
+2020 Summer Judo             78 kg                              F 2 France            
+2020 Summer Judo             78 kg                              F 1 France            
+2020 Summer Judo             78 kg                              F 1 Azerbaijan        
+2020 Summer Judo             78 kg                              F 1 Brazil            
+2020 Summer Judo             78 kg                              F 1 Germany           
+2020 Summer Judo             81 kg                              M 3 Japan              
+2020 Summer Judo             81 kg                              M 2 Mongolia          
+2020 Summer Judo             81 kg                              M 1 Austria           
+2020 Summer Judo             81 kg                              M 1 Belgium           
+2020 Summer Judo             90 kg                              M 3 Georgia           
+2020 Summer Judo             90 kg                              M 2 Germany           
+2020 Summer Judo             90 kg                              M 1 Hungary           
+2020 Summer Judo             90 kg                              M 1 Uzbekistan        
+2020 Summer Judo             Team                               X 3 France            
+2020 Summer Judo             Team                               X 2 Japan              
+2020 Summer Judo             Team                               X 1 Germany           
+2020 Summer Judo             Team                               X 1 Israel             
+2020 Summer Karate           <61 kg Kumite                      F 3 Serbia            
+2020 Summer Karate           <61 kg Kumite                      F 2 China             
+2020 Summer Karate           <61 kg Kumite                      F 1 Egypt             
+2020 Summer Karate           <61 kg Kumite                      F 1 Turkey            
+2020 Summer Karate           <75 kg Kumite                      M 3 Italy             
+2020 Summer Karate           <75 kg Kumite                      M 2 Azerbaijan        
+2020 Summer Karate           <75 kg Kumite                      M 1 Ukraine           
+2020 Summer Karate           <75 kg Kumite                      M 1 Hungary           
+2020 Summer Karate           55 kg Kumite                       F 3 Bulgaria          
+2020 Summer Karate           55 kg Kumite                       F 2 Ukraine           
+2020 Summer Karate           55 kg Kumite                       F 1 Austria           
+2020 Summer Karate           55 kg Kumite                       F 1 Taiwan             
+2020 Summer Karate           61 kg Kumite                       F 3 Egypt             
+2020 Summer Karate           61 kg Kumite                       F 2 Azerbaijan        
+2020 Summer Karate           61 kg Kumite                       F 1 Kazakhstan        
+2020 Summer Karate           61 kg Kumite                       F 1 China             
+2020 Summer Karate           67 kg Kumite                       M 3 France            
+2020 Summer Karate           67 kg Kumite                       M 2 Turkey            
+2020 Summer Karate           67 kg Kumite                       M 1 Kazakhstan        
+2020 Summer Karate           67 kg Kumite                       M 1 Jordan            
+2020 Summer Karate           75 kg Kumite                       M 3 Iran              
+2020 Summer Karate           75 kg Kumite                       M 2 Saudi Arabia      
+2020 Summer Karate           75 kg Kumite                       M 1 Japan              
+2020 Summer Karate           75 kg Kumite                       M 1 Turkey            
+2020 Summer Karate           Kata                               M 3 Japan              
+2020 Summer Karate           Kata                               M 2 Spain              
+2020 Summer Karate           Kata                               M 1 United States     
+2020 Summer Karate           Kata                               M 1 Turkey            
+2020 Summer Karate           Kata                               F 3 Spain              
+2020 Summer Karate           Kata                               F 2 Japan              
+2020 Summer Karate           Kata                               F 1 Hong Kong         
+2020 Summer Karate           Kata                               F 1 Italy             
+2020 Summer Rowing           Double sculls                      M 3 Ireland           
+2020 Summer Rowing           Double sculls                      M 3 France            
+2020 Summer Rowing           Double sculls                      M 2 Germany           
+2020 Summer Rowing           Double sculls                      M 2 Netherlands               
+2020 Summer Rowing           Double sculls                      M 1 Italy             
+2020 Summer Rowing           Double sculls                      M 1 China             
+2020 Summer Rowing           Double sculls                      F 3 Italy             
+2020 Summer Rowing           Double sculls                      F 3 Romania           
+2020 Summer Rowing           Double sculls                      F 2 France            
+2020 Summer Rowing           Double sculls                      F 2 New Zealand        
+2020 Summer Rowing           Double sculls                      F 1 Netherlands               
+2020 Summer Rowing           Double sculls                      F 1 Netherlands               
+2020 Summer Rowing           Eight with coxswain                M 3 New Zealand        
+2020 Summer Rowing           Eight with coxswain                M 2 Germany           
+2020 Summer Rowing           Eight with coxswain                M 1 Great Britain     
+2020 Summer Rowing           Eight with coxswain                F 3 Canada            
+2020 Summer Rowing           Eight with coxswain                F 2 New Zealand        
+2020 Summer Rowing           Eight with coxswain                F 1 China             
+2020 Summer Rowing           Four with coxswain                 M 3 Australia         
+2020 Summer Rowing           Four with coxswain                 M 2 Romania           
+2020 Summer Rowing           Four with coxswain                 M 1 Italy             
+2020 Summer Rowing           Four with coxswain                 F 3 Australia         
+2020 Summer Rowing           Four with coxswain                 F 2 Netherlands               
+2020 Summer Rowing           Four with coxswain                 F 1 Ireland           
+2020 Summer Rowing           Quadruple sculls without coxswain  M 3 Netherlands               
+2020 Summer Rowing           Quadruple sculls without coxswain  M 2 Great Britain     
+2020 Summer Rowing           Quadruple sculls without coxswain  M 1 Australia         
+2020 Summer Rowing           Quadruple sculls without coxswain  F 3 China             
+2020 Summer Rowing           Quadruple sculls without coxswain  F 2 Poland            
+2020 Summer Rowing           Quadruple sculls without coxswain  F 1 Australia         
+2020 Summer Rowing           Single sculls                      M 3 Greece            
+2020 Summer Rowing           Single sculls                      M 2 Norway            
+2020 Summer Rowing           Single sculls                      M 1 Croatia           
+2020 Summer Rowing           Single sculls                      F 3 New Zealand        
+2020 Summer Rowing           Single sculls                      F 2 Taiwan             
+2020 Summer Rowing           Single sculls                      F 1 Austria           
+2020 Summer Rowing           Two without coxswain               M 3 Croatia           
+2020 Summer Rowing           Two without coxswain               M 2 Romania           
+2020 Summer Rowing           Two without coxswain               M 1 Denmark           
+2020 Summer Rowing           Two without coxswain               F 3 New Zealand        
+2020 Summer Rowing           Two without coxswain               F 2 Taiwan             
+2020 Summer Rowing           Two without coxswain               F 1 Canada            
+2020 Summer Rugby            Rugby                              M 3 Fiji              
+2020 Summer Rugby            Rugby                              M 2 New Zealand        
+2020 Summer Rugby            Rugby                              M 1 Argentina         
+2020 Summer Rugby            Rugby                              F 3 New Zealand        
+2020 Summer Rugby            Rugby                              F 2 France            
+2020 Summer Rugby            Rugby                              F 1 Fiji              
+2020 Summer Sailing          470                                M 3 Australia         
+2020 Summer Sailing          470                                M 2 Sweden            
+2020 Summer Sailing          470                                M 1 Spain              
+2020 Summer Sailing          470                                F 3 Great Britain     
+2020 Summer Sailing          470                                F 2 Poland            
+2020 Summer Sailing          470                                F 1 France            
+2020 Summer Sailing          49er                               M 3 Great Britain     
+2020 Summer Sailing          49er                               M 2 New Zealand        
+2020 Summer Sailing          49er                               M 1 Germany           
+2020 Summer Sailing          49er                               F 3 Brazil            
+2020 Summer Sailing          49er                               F 2 Germany           
+2020 Summer Sailing          49er                               F 1 Netherlands               
+2020 Summer Sailing          Dinghy one-person                  M 3 Australia         
+2020 Summer Sailing          Dinghy one-person                  M 2 Croatia           
+2020 Summer Sailing          Dinghy one-person                  M 1 Norway            
+2020 Summer Sailing          Dinghy one-person                  F 3 Denmark           
+2020 Summer Sailing          Dinghy one-person                  F 2 Sweden            
+2020 Summer Sailing          Dinghy one-person                  F 1 Netherlands               
+2020 Summer Sailing          Dinghy two-person                  M 3 Great Britain     
+2020 Summer Sailing          Dinghy two-person                  M 2 Hungary           
+2020 Summer Sailing          Dinghy two-person                  M 1 Spain              
+2020 Summer Sailing          Nacra 17                           X 3 Italy             
+2020 Summer Sailing          Nacra 17                           X 2 Great Britain     
+2020 Summer Sailing          Nacra 17                           X 1 Germany           
+2020 Summer Sailing          RSX windsurfer                     M 3 Netherlands               
+2020 Summer Sailing          RSX windsurfer                     M 2 France            
+2020 Summer Sailing          RSX windsurfer                     M 1 China             
+2020 Summer Sailing          RSX windsurfer                     F 3 China             
+2020 Summer Sailing          RSX windsurfer                     F 2 France            
+2020 Summer Sailing          RSX windsurfer                     F 1 Great Britain     
+2020 Summer Shooting         10 m pistol                        M 3 Iran              
+2020 Summer Shooting         10 m pistol                        M 2 Serbia            
+2020 Summer Shooting         10 m pistol                        M 1 China             
+2020 Summer Shooting         10 m pistol                        X 3 China             
+2020 Summer Shooting         10 m pistol                        X 2 Taiwan             
+2020 Summer Shooting         10 m pistol                        X 1 Ukraine           
+2020 Summer Shooting         10 m pistol                        F 3 Taiwan             
+2020 Summer Shooting         10 m pistol                        F 2 Bulgaria          
+2020 Summer Shooting         10 m pistol                        F 1 China             
+2020 Summer Shooting         10 m rifle                         M 3 United States     
+2020 Summer Shooting         10 m rifle                         M 2 China             
+2020 Summer Shooting         10 m rifle                         M 1 China             
+2020 Summer Shooting         10 m rifle                         X 3 China             
+2020 Summer Shooting         10 m rifle                         X 2 United States     
+2020 Summer Shooting         10 m rifle                         X 1 Taiwan             
+2020 Summer Shooting         10 m rifle                         F 3 China             
+2020 Summer Shooting         10 m rifle                         F 2 Taiwan             
+2020 Summer Shooting         10 m rifle                         F 1 Switzerland       
+2020 Summer Shooting         25 m pistol                        F 3 Taiwan             
+2020 Summer Shooting         25 m pistol                        F 2 South Korea       
+2020 Summer Shooting         25 m pistol                        F 1 China             
+2020 Summer Shooting         25 m pistol rapid fire             M 3 France            
+2020 Summer Shooting         25 m pistol rapid fire             M 2 Cuba              
+2020 Summer Shooting         25 m pistol rapid fire             M 1 China             
+2020 Summer Shooting         50 m rifle                         M 3 China             
+2020 Summer Shooting         50 m rifle                         M 2 Taiwan             
+2020 Summer Shooting         50 m rifle                         M 1 Serbia            
+2020 Summer Shooting         50 m rifle                         F 3 Switzerland       
+2020 Summer Shooting         50 m rifle                         F 2 Taiwan             
+2020 Summer Shooting         50 m rifle                         F 1 Taiwan             
+2020 Summer Shooting         Skeet                              M 3 United States     
+2020 Summer Shooting         Skeet                              M 2 Denmark           
+2020 Summer Shooting         Skeet                              M 1 Kuwait            
+2020 Summer Shooting         Skeet                              F 3 United States     
+2020 Summer Shooting         Skeet                              F 2 Italy             
+2020 Summer Shooting         Skeet                              F 1 China             
+2020 Summer Shooting         Trap                               M 3 Czech Republic      
+2020 Summer Shooting         Trap                               M 2 Czech Republic      
+2020 Summer Shooting         Trap                               M 1 Great Britain     
+2020 Summer Shooting         Trap                               X 3 Spain              
+2020 Summer Shooting         Trap                               X 2 San Marino        
+2020 Summer Shooting         Trap                               X 1 United States     
+2020 Summer Shooting         Trap                               F 3 Slovakia          
+2020 Summer Shooting         Trap                               F 2 United States     
+2020 Summer Shooting         Trap                               F 1 San Marino        
+2020 Summer Skateboarding    Park                               M 3 Australia         
+2020 Summer Skateboarding    Park                               M 2 Brazil            
+2020 Summer Skateboarding    Park                               M 1 United States     
+2020 Summer Skateboarding    Park                               F 3 Japan              
+2020 Summer Skateboarding    Park                               F 2 Japan              
+2020 Summer Skateboarding    Park                               F 1 Great Britain     
+2020 Summer Skateboarding    Street                             M 3 Japan              
+2020 Summer Skateboarding    Street                             M 2 Brazil            
+2020 Summer Skateboarding    Street                             M 1 United States     
+2020 Summer Skateboarding    Street                             F 3 Japan              
+2020 Summer Skateboarding    Street                             F 2 Brazil            
+2020 Summer Skateboarding    Street                             F 1 Japan              
+2020 Summer Swimming         10 km                              M 3 Germany           
+2020 Summer Swimming         10 km                              M 2 Hungary           
+2020 Summer Swimming         10 km                              M 1 Italy             
+2020 Summer Swimming         10 km                              F 3 Brazil            
+2020 Summer Swimming         10 km                              F 2 Netherlands               
+2020 Summer Swimming         10 km                              F 1 Australia         
+2020 Summer Swimming         100 m backstroke                   M 3 Taiwan             
+2020 Summer Swimming         100 m backstroke                   M 2 Taiwan             
+2020 Summer Swimming         100 m backstroke                   M 1 United States     
+2020 Summer Swimming         100 m backstroke                   F 3 Australia         
+2020 Summer Swimming         100 m backstroke                   F 2 Canada            
+2020 Summer Swimming         100 m backstroke                   F 1 United States     
+2020 Summer Swimming         100 m breaststroke                 M 3 Great Britain     
+2020 Summer Swimming         100 m breaststroke                 M 2 Netherlands               
+2020 Summer Swimming         100 m breaststroke                 M 1 Italy             
+2020 Summer Swimming         100 m breaststroke                 F 3 United States     
+2020 Summer Swimming         100 m breaststroke                 F 2 South Africa       
+2020 Summer Swimming         100 m breaststroke                 F 1 United States     
+2020 Summer Swimming         100 m butterfly                    M 3 United States     
+2020 Summer Swimming         100 m butterfly                    M 2 Hungary           
+2020 Summer Swimming         100 m butterfly                    M 1 Switzerland       
+2020 Summer Swimming         100 m butterfly                    F 3 Canada            
+2020 Summer Swimming         100 m butterfly                    F 2 China             
+2020 Summer Swimming         100 m butterfly                    F 1 Australia         
+2020 Summer Swimming         100 m freestyle                    M 3 United States     
+2020 Summer Swimming         100 m freestyle                    M 2 Australia         
+2020 Summer Swimming         100 m freestyle                    M 1 Taiwan             
+2020 Summer Swimming         100 m freestyle                    F 3 Australia         
+2020 Summer Swimming         100 m freestyle                    F 2 Hong Kong         
+2020 Summer Swimming         100 m freestyle                    F 1 Australia         
+2020 Summer Swimming         1500 m freestyle                   M 3 United States     
+2020 Summer Swimming         1500 m freestyle                   M 2 Ukraine           
+2020 Summer Swimming         1500 m freestyle                   M 1 Germany           
+2020 Summer Swimming         1500 m freestyle                   F 3 United States     
+2020 Summer Swimming         1500 m freestyle                   F 2 United States     
+2020 Summer Swimming         1500 m freestyle                   F 1 Germany           
+2020 Summer Swimming         200 m backstroke                   M 3 Taiwan             
+2020 Summer Swimming         200 m backstroke                   M 2 United States     
+2020 Summer Swimming         200 m backstroke                   M 1 Great Britain     
+2020 Summer Swimming         200 m backstroke                   F 3 Australia         
+2020 Summer Swimming         200 m backstroke                   F 2 Canada            
+2020 Summer Swimming         200 m backstroke                   F 1 Australia         
+2020 Summer Swimming         200 m breastroke                   F 3 South Africa       
+2020 Summer Swimming         200 m breastroke                   F 2 United States     
+2020 Summer Swimming         200 m breastroke                   F 1 United States     
+2020 Summer Swimming         200 m breaststroke                 M 3 Australia         
+2020 Summer Swimming         200 m breaststroke                 M 2 Netherlands               
+2020 Summer Swimming         200 m breaststroke                 M 1 Finland           
+2020 Summer Swimming         200 m butterfly                    M 3 Hungary           
+2020 Summer Swimming         200 m butterfly                    M 2 Japan              
+2020 Summer Swimming         200 m butterfly                    M 1 Italy             
+2020 Summer Swimming         200 m butterfly                    F 3 China             
+2020 Summer Swimming         200 m butterfly                    F 2 United States     
+2020 Summer Swimming         200 m butterfly                    F 1 United States     
+2020 Summer Swimming         200 m freestyle                    M 3 Great Britain     
+2020 Summer Swimming         200 m freestyle                    M 2 Great Britain     
+2020 Summer Swimming         200 m freestyle                    M 1 Brazil            
+2020 Summer Swimming         200 m freestyle                    F 3 Australia         
+2020 Summer Swimming         200 m freestyle                    F 2 Hong Kong         
+2020 Summer Swimming         200 m freestyle                    F 1 Canada            
+2020 Summer Swimming         200 m medley                       M 3 China             
+2020 Summer Swimming         200 m medley                       M 2 Great Britain     
+2020 Summer Swimming         200 m medley                       M 1 Switzerland       
+2020 Summer Swimming         200 m medley                       F 3 Japan              
+2020 Summer Swimming         200 m medley                       F 2 United States     
+2020 Summer Swimming         200 m medley                       F 1 United States     
+2020 Summer Swimming         400 m freestyle                    M 3 Tunisia           
+2020 Summer Swimming         400 m freestyle                    M 2 Australia         
+2020 Summer Swimming         400 m freestyle                    M 1 United States     
+2020 Summer Swimming         400 m freestyle                    F 3 Australia         
+2020 Summer Swimming         400 m freestyle                    F 2 United States     
+2020 Summer Swimming         400 m freestyle                    F 1 China             
+2020 Summer Swimming         400 m medley                       M 3 United States     
+2020 Summer Swimming         400 m medley                       M 2 United States     
+2020 Summer Swimming         400 m medley                       M 1 Australia         
+2020 Summer Swimming         400 m medley                       F 3 Japan              
+2020 Summer Swimming         400 m medley                       F 2 United States     
+2020 Summer Swimming         400 m medley                       F 1 United States     
+2020 Summer Swimming         4x100 m freestyle                  M 3 United States     
+2020 Summer Swimming         4x100 m freestyle                  M 2 Italy             
+2020 Summer Swimming         4x100 m freestyle                  M 1 Australia         
+2020 Summer Swimming         4x100 m freestyle                  F 3 Australia         
+2020 Summer Swimming         4x100 m freestyle                  F 2 Canada            
+2020 Summer Swimming         4x100 m freestyle                  F 1 United States     
+2020 Summer Swimming         4x100 m medley                     M 3 United States     
+2020 Summer Swimming         4x100 m medley                     M 2 Great Britain     
+2020 Summer Swimming         4x100 m medley                     M 1 Italy             
+2020 Summer Swimming         4x100 m medley                     X 3 Great Britain     
+2020 Summer Swimming         4x100 m medley                     X 2 China             
+2020 Summer Swimming         4x100 m medley                     X 1 Australia         
+2020 Summer Swimming         4x100 m medley                     F 3 Australia         
+2020 Summer Swimming         4x100 m medley                     F 2 United States     
+2020 Summer Swimming         4x100 m medley                     F 1 Canada            
+2020 Summer Swimming         4x200 m freestyle                  M 3 Great Britain     
+2020 Summer Swimming         4x200 m freestyle                  M 2 Taiwan             
+2020 Summer Swimming         4x200 m freestyle                  M 1 Australia         
+2020 Summer Swimming         4x200 m freestyle                  F 3 China             
+2020 Summer Swimming         4x200 m freestyle                  F 2 United States     
+2020 Summer Swimming         4x200 m freestyle                  F 1 Australia         
+2020 Summer Swimming         50 m freestyle                     M 3 United States     
+2020 Summer Swimming         50 m freestyle                     M 2 France            
+2020 Summer Swimming         50 m freestyle                     M 1 Brazil            
+2020 Summer Swimming         50 m freestyle                     F 3 Australia         
+2020 Summer Swimming         50 m freestyle                     F 2 Sweden            
+2020 Summer Swimming         50 m freestyle                     F 1 Denmark           
+2020 Summer Swimming         800 m freestyle                    M 3 United States     
+2020 Summer Swimming         800 m freestyle                    M 2 Italy             
+2020 Summer Swimming         800 m freestyle                    M 1 Ukraine           
+2020 Summer Swimming         800 m freestyle                    F 3 United States     
+2020 Summer Swimming         800 m freestyle                    F 2 Australia         
+2020 Summer Swimming         800 m freestyle                    F 1 Italy             
+2020 Summer Swimming         Artistic duet                      F 3 Taiwan             
+2020 Summer Swimming         Artistic duet                      F 2 China             
+2020 Summer Swimming         Artistic duet                      F 1 Ukraine           
+2020 Summer Swimming         Artistic team                      F 3 Taiwan             
+2020 Summer Swimming         Artistic team                      F 2 China             
+2020 Summer Swimming         Artistic team                      F 1 Ukraine           
+2020 Summer Table Tennis     Doubles                            M 3 China             
+2020 Summer Table Tennis     Doubles                            M 2 Germany           
+2020 Summer Table Tennis     Doubles                            M 1 Japan              
+2020 Summer Table Tennis     Doubles                            X 3 Japan              
+2020 Summer Table Tennis     Doubles                            X 2 China             
+2020 Summer Table Tennis     Doubles                            X 1 Taiwan             
+2020 Summer Table Tennis     Doubles                            F 3 China             
+2020 Summer Table Tennis     Doubles                            F 2 Japan              
+2020 Summer Table Tennis     Doubles                            F 1 Hong Kong         
+2020 Summer Table Tennis     Singles                            M 3 China             
+2020 Summer Table Tennis     Singles                            M 2 China             
+2020 Summer Table Tennis     Singles                            M 1 Germany           
+2020 Summer Table Tennis     Singles                            F 3 China             
+2020 Summer Table Tennis     Singles                            F 2 China             
+2020 Summer Table Tennis     Singles                            F 1 Japan              
+2020 Summer Taekwondo        <80 kg                             M 3 Taiwan             
+2020 Summer Taekwondo        <80 kg                             M 2 Jordan            
+2020 Summer Taekwondo        <80 kg                             M 1 Egypt             
+2020 Summer Taekwondo        <80 kg                             M 1 Croatia           
+2020 Summer Taekwondo        49 kg                              F 3 Thailand          
+2020 Summer Taekwondo        49 kg                              F 2 Spain              
+2020 Summer Taekwondo        49 kg                              F 1 Serbia            
+2020 Summer Taekwondo        49 kg                              F 1 Israel             
+2020 Summer Taekwondo        57 kg                              F 3 United States     
+2020 Summer Taekwondo        57 kg                              F 2 Taiwan             
+2020 Summer Taekwondo        57 kg                              F 1 Taiwan             
+2020 Summer Taekwondo        57 kg                              F 1 Turkey            
+2020 Summer Taekwondo        58 kg                              M 3 Italy             
+2020 Summer Taekwondo        58 kg                              M 2 Tunisia           
+2020 Summer Taekwondo        58 kg                              M 1 South Korea       
+2020 Summer Taekwondo        58 kg                              M 1 Taiwan             
+2020 Summer Taekwondo        67 kg                              F 3 Serbia            
+2020 Summer Taekwondo        67 kg                              F 3 Croatia           
+2020 Summer Taekwondo        67 kg                              F 2 South Korea       
+2020 Summer Taekwondo        67 kg                              F 2 Great Britain     
+2020 Summer Taekwondo        67 kg                              F 1 France            
+2020 Summer Taekwondo        67 kg                              F 1 Great Britain     
+2020 Summer Taekwondo        67 kg                              F 1 Egypt             
+2020 Summer Taekwondo        67 kg                              F 1 Ivory Coast       
+2020 Summer Taekwondo        68 kg                              M 3 Uzbekistan        
+2020 Summer Taekwondo        68 kg                              M 2 Great Britain     
+2020 Summer Taekwondo        68 kg                              M 1 Turkey            
+2020 Summer Taekwondo        68 kg                              M 1 China             
+2020 Summer Taekwondo        80 kg                              M 3 Taiwan             
+2020 Summer Taekwondo        80 kg                              M 2 North Macedonia     
+2020 Summer Taekwondo        80 kg                              M 1 South Korea       
+2020 Summer Taekwondo        80 kg                              M 1 Cuba              
+2020 Summer Tennis           Doubles                            M 3 Croatia           
+2020 Summer Tennis           Doubles                            M 2 Croatia           
+2020 Summer Tennis           Doubles                            M 1 New Zealand        
+2020 Summer Tennis           Doubles                            X 3 Taiwan             
+2020 Summer Tennis           Doubles                            X 2 Taiwan             
+2020 Summer Tennis           Doubles                            X 1 Australia         
+2020 Summer Tennis           Doubles                            F 3 Czech Republic      
+2020 Summer Tennis           Doubles                            F 2 Switzerland       
+2020 Summer Tennis           Doubles                            F 1 Brazil            
+2020 Summer Tennis           Singles                            M 3 Germany           
+2020 Summer Tennis           Singles                            M 2 Taiwan             
+2020 Summer Tennis           Singles                            M 1 Spain              
+2020 Summer Tennis           Singles                            F 3 Switzerland       
+2020 Summer Tennis           Singles                            F 2 Czech Republic      
+2020 Summer Tennis           Singles                            F 1 Ukraine           
+2020 Summer Track and Field  100 m                              M 3 Italy             
+2020 Summer Track and Field  100 m                              M 2 United States     
+2020 Summer Track and Field  100 m                              M 1 Canada            
+2020 Summer Track and Field  100 m                              F 3 Jamaica           
+2020 Summer Track and Field  100 m                              F 2 Jamaica           
+2020 Summer Track and Field  100 m                              F 1 Jamaica           
+2020 Summer Track and Field  100 m hurdles                      F 3 Puerto Rico       
+2020 Summer Track and Field  100 m hurdles                      F 2 United States     
+2020 Summer Track and Field  100 m hurdles                      F 1 Jamaica           
+2020 Summer Track and Field  10000 m                            M 3 Ethiopia          
+2020 Summer Track and Field  10000 m                            M 2 Uganda            
+2020 Summer Track and Field  10000 m                            M 1 Uganda            
+2020 Summer Track and Field  10000 m                            F 3 Netherlands               
+2020 Summer Track and Field  10000 m                            F 2 Bahrain           
+2020 Summer Track and Field  10000 m                            F 1 Ethiopia          
+2020 Summer Track and Field  110 m hurdles                      M 3 Jamaica           
+2020 Summer Track and Field  110 m hurdles                      M 2 United States     
+2020 Summer Track and Field  110 m hurdles                      M 1 Jamaica           
+2020 Summer Track and Field  1500 m                             M 3 Norway            
+2020 Summer Track and Field  1500 m                             M 2 Kenya             
+2020 Summer Track and Field  1500 m                             M 1 Great Britain     
+2020 Summer Track and Field  1500 m                             F 3 Kenya             
+2020 Summer Track and Field  1500 m                             F 2 Great Britain     
+2020 Summer Track and Field  1500 m                             F 1 Netherlands               
+2020 Summer Track and Field  20 km walk                         M 3 Italy             
+2020 Summer Track and Field  20 km walk                         M 2 Japan              
+2020 Summer Track and Field  20 km walk                         M 1 Japan              
+2020 Summer Track and Field  20 km walk                         F 3 Italy             
+2020 Summer Track and Field  20 km walk                         F 2 Colombia          
+2020 Summer Track and Field  20 km walk                         F 1 China             
+2020 Summer Track and Field  200 m                              M 3 Canada            
+2020 Summer Track and Field  200 m                              M 2 United States     
+2020 Summer Track and Field  200 m                              M 1 United States     
+2020 Summer Track and Field  200 m                              F 3 Jamaica           
+2020 Summer Track and Field  200 m                              F 2 Namibia                  
+2020 Summer Track and Field  200 m                              F 1 United States     
+2020 Summer Track and Field  3000 m steeplechase                M 3 Morocco                  
+2020 Summer Track and Field  3000 m steeplechase                M 2 Ethiopia          
+2020 Summer Track and Field  3000 m steeplechase                M 1 Kenya             
+2020 Summer Track and Field  3000 m steeplechase                F 3 Uganda            
+2020 Summer Track and Field  3000 m steeplechase                F 2 United States     
+2020 Summer Track and Field  3000 m steeplechase                F 1 Kenya             
+2020 Summer Track and Field  400 m                              M 3 Bahamas                  
+2020 Summer Track and Field  400 m                              M 2 Colombia          
+2020 Summer Track and Field  400 m                              M 1 Grenada           
+2020 Summer Track and Field  400 m                              F 3 Bahamas                  
+2020 Summer Track and Field  400 m                              F 2 Dominican Republic
+2020 Summer Track and Field  400 m                              F 1 United States     
+2020 Summer Track and Field  400 m hurdles                      M 3 Norway            
+2020 Summer Track and Field  400 m hurdles                      M 2 United States     
+2020 Summer Track and Field  400 m hurdles                      M 1 Brazil            
+2020 Summer Track and Field  400 m hurdles                      F 3 United States     
+2020 Summer Track and Field  400 m hurdles                      F 2 United States     
+2020 Summer Track and Field  400 m hurdles                      F 1 Netherlands               
+2020 Summer Track and Field  4x100 m                            M 3 Italy             
+2020 Summer Track and Field  4x100 m                            M 2 Great Britain     
+2020 Summer Track and Field  4x100 m                            M 1 Canada            
+2020 Summer Track and Field  4x100 m                            F 3 Jamaica           
+2020 Summer Track and Field  4x100 m                            F 2 United States     
+2020 Summer Track and Field  4x100 m                            F 1 Great Britain     
+2020 Summer Track and Field  4x400 m                            M 3 United States     
+2020 Summer Track and Field  4x400 m                            M 2 Netherlands               
+2020 Summer Track and Field  4x400 m                            M 1 Botswana                   
+2020 Summer Track and Field  4x400 m                            X 3 Poland            
+2020 Summer Track and Field  4x400 m                            X 2 Dominican Republic
+2020 Summer Track and Field  4x400 m                            X 1 United States     
+2020 Summer Track and Field  4x400 m                            F 3 United States     
+2020 Summer Track and Field  4x400 m                            F 2 Poland            
+2020 Summer Track and Field  4x400 m                            F 1 Jamaica           
+2020 Summer Track and Field  50 km walk                         M 3 Poland            
+2020 Summer Track and Field  50 km walk                         M 2 Germany           
+2020 Summer Track and Field  50 km walk                         M 1 Canada            
+2020 Summer Track and Field  5000 m                             M 3 Uganda            
+2020 Summer Track and Field  5000 m                             M 2 Canada            
+2020 Summer Track and Field  5000 m                             M 1 United States     
+2020 Summer Track and Field  5000 m                             F 3 Netherlands               
+2020 Summer Track and Field  5000 m                             F 2 Kenya             
+2020 Summer Track and Field  5000 m                             F 1 Ethiopia          
+2020 Summer Track and Field  800 m                              M 3 Kenya             
+2020 Summer Track and Field  800 m                              M 2 Kenya             
+2020 Summer Track and Field  800 m                              M 1 Poland            
+2020 Summer Track and Field  800 m                              F 3 United States     
+2020 Summer Track and Field  800 m                              F 2 Great Britain     
+2020 Summer Track and Field  800 m                              F 1 United States     
+2020 Summer Track and Field  Decathlon                          M 3 Canada            
+2020 Summer Track and Field  Decathlon                          M 2 France            
+2020 Summer Track and Field  Decathlon                          M 1 Australia         
+2020 Summer Track and Field  Discus throw                       F 3 United States     
+2020 Summer Track and Field  Discus throw                       F 2 Germany           
+2020 Summer Track and Field  Discus throw                       F 1 Cuba              
+2020 Summer Track and Field  Discus throw                       M 3 Sweden            
+2020 Summer Track and Field  Discus throw                       M 2 Sweden            
+2020 Summer Track and Field  Discus throw                       M 1 Austria           
+2020 Summer Track and Field  Hammer throw                       M 3 Poland            
+2020 Summer Track and Field  Hammer throw                       M 2 Norway            
+2020 Summer Track and Field  Hammer throw                       M 1 Poland            
+2020 Summer Track and Field  Hammer throw                       F 3 Poland            
+2020 Summer Track and Field  Hammer throw                       F 2 China             
+2020 Summer Track and Field  Hammer throw                       F 1 Poland            
+2020 Summer Track and Field  Heptathlon                         F 3 Belgium           
+2020 Summer Track and Field  Heptathlon                         F 2 Netherlands               
+2020 Summer Track and Field  Heptathlon                         F 1 Netherlands               
+2020 Summer Track and Field  High jump                          M 3 Italy             
+2020 Summer Track and Field  High jump                          M 3 Qatar              
+2020 Summer Track and Field  High jump                          M 1 Belarus           
+2020 Summer Track and Field  High jump                          F 3 Taiwan             
+2020 Summer Track and Field  High jump                          F 2 Australia         
+2020 Summer Track and Field  High jump                          F 1 Ukraine           
+2020 Summer Track and Field  Javelin throw                      M 3 Egypt                          
+2020 Summer Track and Field  Javelin throw                      M 2 Czech Republic      
+2020 Summer Track and Field  Javelin throw                      M 1 Czech Republic      
+2020 Summer Track and Field  Javelin throw                      F 3 China             
+2020 Summer Track and Field  Javelin throw                      F 2 Poland            
+2020 Summer Track and Field  Javelin throw                      F 1 Australia         
+2020 Summer Track and Field  Long jump                          M 3 Greece            
+2020 Summer Track and Field  Long jump                          M 2 Cuba              
+2020 Summer Track and Field  Long jump                          M 1 Cuba              
+2020 Summer Track and Field  Long jump                          F 3 Germany           
+2020 Summer Track and Field  Long jump                          F 2 United States     
+2020 Summer Track and Field  Long jump                          F 1 Nigeria           
+2020 Summer Track and Field  Marathon                           M 3 Kenya             
+2020 Summer Track and Field  Marathon                           M 2 Netherlands               
+2020 Summer Track and Field  Marathon                           M 1 Belgium           
+2020 Summer Track and Field  Marathon                           F 3 Kenya             
+2020 Summer Track and Field  Marathon                           F 2 Kenya             
+2020 Summer Track and Field  Marathon                           F 1 United States     
+2020 Summer Track and Field  Pentathlon                         M 3 Great Britain     
+2020 Summer Track and Field  Pentathlon                         M 2 Egypt             
+2020 Summer Track and Field  Pentathlon                         M 1 South Korea       
+2020 Summer Track and Field  Pentathlon                         F 3 Great Britain     
+2020 Summer Track and Field  Pentathlon                         F 2 Lithuania         
+2020 Summer Track and Field  Pentathlon                         F 1 Hungary           
+2020 Summer Track and Field  Pole vault                         M 3 Sweden            
+2020 Summer Track and Field  Pole vault                         M 2 United States     
+2020 Summer Track and Field  Pole vault                         M 1 Brazil            
+2020 Summer Track and Field  Pole vault                         F 3 United States     
+2020 Summer Track and Field  Pole vault                         F 2 Taiwan             
+2020 Summer Track and Field  Pole vault                         F 1 Great Britain     
+2020 Summer Track and Field  Shot put                           M 3 United States     
+2020 Summer Track and Field  Shot put                           M 2 United States     
+2020 Summer Track and Field  Shot put                           M 1 New Zealand        
+2020 Summer Track and Field  Shot put                           F 3 China             
+2020 Summer Track and Field  Shot put                           F 2 United States     
+2020 Summer Track and Field  Shot put                           F 1 New Zealand        
+2020 Summer Track and Field  Triple jump                        M 3 Portugal          
+2020 Summer Track and Field  Triple jump                        M 2 China             
+2020 Summer Track and Field  Triple jump                        M 1 Burkina Faso      
+2020 Summer Track and Field  Triple jump                        F 3 Venezuela         
+2020 Summer Track and Field  Triple jump                        F 2 Portugal          
+2020 Summer Track and Field  Triple jump                        F 1 Spain              
+2020 Summer Triathlon        Relay                              X 3 Great Britain     
+2020 Summer Triathlon        Relay                              X 2 United States     
+2020 Summer Triathlon        Relay                              X 1 France            
+2020 Summer Triathlon        Triathlon                          M 3 Norway            
+2020 Summer Triathlon        Triathlon                          M 2 Great Britain     
+2020 Summer Triathlon        Triathlon                          M 1 New Zealand        
+2020 Summer Triathlon        Triathlon                          F 3 Bermuda                  
+2020 Summer Triathlon        Triathlon                          F 2 Great Britain     
+2020 Summer Triathlon        Triathlon                          F 1 United States     
+2020 Summer Volleyball       Beach                              M 3 Norway            
+2020 Summer Volleyball       Beach                              M 2 Taiwan             
+2020 Summer Volleyball       Beach                              M 1 Qatar              
+2020 Summer Volleyball       Beach                              F 3 United States     
+2020 Summer Volleyball       Beach                              F 2 Australia         
+2020 Summer Volleyball       Beach                              F 1 Switzerland       
+2020 Summer Volleyball       Indoor                             M 3 France            
+2020 Summer Volleyball       Indoor                             M 2 Taiwan             
+2020 Summer Volleyball       Indoor                             M 1 Argentina         
+2020 Summer Volleyball       Indoor                             F 3 United States     
+2020 Summer Volleyball       Indoor                             F 2 Brazil            
+2020 Summer Volleyball       Indoor                             F 1 Serbia            
+2020 Summer Water Polo       Water polo                         M 3 Serbia            
+2020 Summer Water Polo       Water polo                         M 2 Greece            
+2020 Summer Water Polo       Water polo                         M 1 Hungary           
+2020 Summer Water Polo       Water Polo                         F 3 United States     
+2020 Summer Water Polo       Water Polo                         F 2 Spain              
+2020 Summer Water Polo       Water Polo                         F 1 Hungary           
+2020 Summer Weightlifting    109 kg                             M 3 Georgia           
+2020 Summer Weightlifting    109 kg                             M 3 Uzbekistan        
+2020 Summer Weightlifting    109 kg                             M 2 Iran              
+2020 Summer Weightlifting    109 kg                             M 2 Armenia           
+2020 Summer Weightlifting    109 kg                             M 1 Syria             
+2020 Summer Weightlifting    109 kg                             M 1 Latvia            
+2020 Summer Weightlifting    49 kg                              F 3 China             
+2020 Summer Weightlifting    49 kg                              F 2 Egypt                          
+2020 Summer Weightlifting    49 kg                              F 1 Indonesia         
+2020 Summer Weightlifting    55 kg                              F 3 Philippines       
+2020 Summer Weightlifting    55 kg                              F 2 China             
+2020 Summer Weightlifting    55 kg                              F 1 Kazakhstan        
+2020 Summer Weightlifting    59 kg                              F 3 Taiwan             
+2020 Summer Weightlifting    59 kg                              F 2 Turkmenistan      
+2020 Summer Weightlifting    59 kg                              F 1 Japan              
+2020 Summer Weightlifting    61 kg                              M 3 China             
+2020 Summer Weightlifting    61 kg                              M 2 Indonesia         
+2020 Summer Weightlifting    61 kg                              M 1 Kazakhstan        
+2020 Summer Weightlifting    64 kg                              F 3 Canada            
+2020 Summer Weightlifting    64 kg                              F 2 Italy             
+2020 Summer Weightlifting    64 kg                              F 1 Taiwan             
+2020 Summer Weightlifting    67 kg                              M 3 China             
+2020 Summer Weightlifting    67 kg                              M 2 Colombia          
+2020 Summer Weightlifting    67 kg                              M 1 Italy             
+2020 Summer Weightlifting    73 kg                              M 3 China             
+2020 Summer Weightlifting    73 kg                              M 2 Venezuela         
+2020 Summer Weightlifting    73 kg                              M 1 Indonesia         
+2020 Summer Weightlifting    76 kg                              F 3 Ecuador           
+2020 Summer Weightlifting    76 kg                              F 2 United States     
+2020 Summer Weightlifting    76 kg                              F 1 Mexico            
+2020 Summer Weightlifting    81 kg                              M 3 China             
+2020 Summer Weightlifting    81 kg                              M 2 Dominican Republic
+2020 Summer Weightlifting    81 kg                              M 1 Italy             
+2020 Summer Weightlifting    87 kg                              F 3 China             
+2020 Summer Weightlifting    87 kg                              F 3 China             
+2020 Summer Weightlifting    87 kg                              F 2 Great Britain     
+2020 Summer Weightlifting    87 kg                              F 2 Ecuador           
+2020 Summer Weightlifting    87 kg                              F 1 United States     
+2020 Summer Weightlifting    87 kg                              F 1 Dominican Republic
+2020 Summer Weightlifting    96 kg                              M 3 Qatar              
+2020 Summer Weightlifting    96 kg                              M 2 Venezuela         
+2020 Summer Weightlifting    96 kg                              M 1 Georgia           
+2020 Summer Wrestling        125 kg freestyle                   M 3 United States     
+2020 Summer Wrestling        125 kg freestyle                   M 2 Georgia           
+2020 Summer Wrestling        125 kg freestyle                   M 1 Turkey            
+2020 Summer Wrestling        125 kg freestyle                   M 1 Iran              
+2020 Summer Wrestling        130 kg Greco-Roman                 M 3 Cuba              
+2020 Summer Wrestling        130 kg Greco-Roman                 M 2 Georgia           
+2020 Summer Wrestling        130 kg Greco-Roman                 M 1 Turkey            
+2020 Summer Wrestling        130 kg Greco-Roman                 M 1 Taiwan             
+2020 Summer Wrestling        50 kg freestyle                    F 3 Japan              
+2020 Summer Wrestling        50 kg freestyle                    F 2 China             
+2020 Summer Wrestling        50 kg freestyle                    F 1 United States     
+2020 Summer Wrestling        50 kg freestyle                    F 1 Azerbaijan        
+2020 Summer Wrestling        53 kg freestyle                    F 3 Japan              
+2020 Summer Wrestling        53 kg freestyle                    F 2 China             
+2020 Summer Wrestling        53 kg freestyle                    F 1 Belarus           
+2020 Summer Wrestling        53 kg freestyle                    F 1 Mongolia          
+2020 Summer Wrestling        57 kg freestyle                    M 3 Taiwan             
+2020 Summer Wrestling        57 kg freestyle                    M 2 Egypt                          
+2020 Summer Wrestling        57 kg freestyle                    M 1 United States     
+2020 Summer Wrestling        57 kg freestyle                    M 1 Kazakhstan        
+2020 Summer Wrestling        57 kg freestyle                    F 3 Japan              
+2020 Summer Wrestling        57 kg freestyle                    F 2 Belarus           
+2020 Summer Wrestling        57 kg freestyle                    F 1 United States     
+2020 Summer Wrestling        57 kg freestyle                    F 1 Bulgaria          
+2020 Summer Wrestling        60 kg Greco-Roman                  M 3 Cuba              
+2020 Summer Wrestling        60 kg Greco-Roman                  M 2 Japan              
+2020 Summer Wrestling        60 kg Greco-Roman                  M 1 China             
+2020 Summer Wrestling        60 kg Greco-Roman                  M 1 Taiwan             
+2020 Summer Wrestling        62 kg freestyle                    F 3 Japan              
+2020 Summer Wrestling        62 kg freestyle                    F 2 Kyrgyzstan        
+2020 Summer Wrestling        62 kg freestyle                    F 1 Bulgaria          
+2020 Summer Wrestling        62 kg freestyle                    F 1 Ukraine           
+2020 Summer Wrestling        65 kg freestyle                    M 3 Japan              
+2020 Summer Wrestling        65 kg freestyle                    M 2 Azerbaijan        
+2020 Summer Wrestling        65 kg freestyle                    M 1 Taiwan             
+2020 Summer Wrestling        65 kg freestyle                    M 1 India             
+2020 Summer Wrestling        67 kg Greco-Roman                  M 3 Iran              
+2020 Summer Wrestling        67 kg Greco-Roman                  M 2 Ukraine           
+2020 Summer Wrestling        67 kg Greco-Roman                  M 1 Germany           
+2020 Summer Wrestling        67 kg Greco-Roman                  M 1 Egypt             
+2020 Summer Wrestling        68 kg freestyle                    F 3 United States     
+2020 Summer Wrestling        68 kg freestyle                    F 2 Nigeria           
+2020 Summer Wrestling        68 kg freestyle                    F 1 Kyrgyzstan        
+2020 Summer Wrestling        68 kg freestyle                    F 1 Ukraine           
+2020 Summer Wrestling        74 kg freestyle                    M 3 Taiwan             
+2020 Summer Wrestling        74 kg freestyle                    M 2 Belarus           
+2020 Summer Wrestling        74 kg freestyle                    M 1 United States     
+2020 Summer Wrestling        74 kg freestyle                    M 1 Uzbekistan        
+2020 Summer Wrestling        76 kg freestyle                    F 3 Germany           
+2020 Summer Wrestling        76 kg freestyle                    F 2 United States     
+2020 Summer Wrestling        76 kg freestyle                    F 1 Turkey            
+2020 Summer Wrestling        76 kg freestyle                    F 1 China             
+2020 Summer Wrestling        77 kg Greco-Roman                  M 3 Hungary           
+2020 Summer Wrestling        77 kg Greco-Roman                  M 2 Kyrgyzstan        
+2020 Summer Wrestling        77 kg Greco-Roman                  M 1 Azerbaijan        
+2020 Summer Wrestling        77 kg Greco-Roman                  M 1 Japan              
+2020 Summer Wrestling        86 kg freestyle                    M 3 United States     
+2020 Summer Wrestling        86 kg freestyle                    M 2 Iran              
+2020 Summer Wrestling        86 kg freestyle                    M 1 San Marino        
+2020 Summer Wrestling        86 kg freestyle                    M 1 Taiwan             
+2020 Summer Wrestling        87 kg Greco-Roman                  M 3 Ukraine           
+2020 Summer Wrestling        87 kg Greco-Roman                  M 2 Hungary           
+2020 Summer Wrestling        87 kg Greco-Roman                  M 1 Germany           
+2020 Summer Wrestling        87 kg Greco-Roman                  M 1 Serbia            
+2020 Summer Wrestling        97 kg freestyle                    M 3 Taiwan             
+2020 Summer Wrestling        97 kg freestyle                    M 2 United States     
+2020 Summer Wrestling        97 kg freestyle                    M 1 Cuba              
+2020 Summer Wrestling        97 kg freestyle                    M 1 Italy             
+2020 Summer Wrestling        97 kg Greco-Roman                  M 3 Taiwan             
+2020 Summer Wrestling        97 kg Greco-Roman                  M 2 Armenia           
+2020 Summer Wrestling        97 kg Greco-Roman                  M 1 Poland            
+2020 Summer Wrestling        97 kg Greco-Roman                  M 1 Iran              
